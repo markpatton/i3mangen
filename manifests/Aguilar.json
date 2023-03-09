@@ -2,11 +2,19 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "http://localhost:8080/data/aguilar/manifest.json",
   "type": "Manifest",
-  "label": {
-    "en": [
-      "aguilar"
-    ]
-  },
+  "label": { "en": [ "J Aguilar 1804 risk book" ] },
+  "metadata": [
+    {
+      "label": { "en": [ "Size in cm" ] },
+      "value": { "none": [ "16x11x2" ] }
+    },
+    {
+      "label": { "en": [ "Type" ] },
+      "value": {
+        "en": [ "Volume" ]
+      }
+    }
+  ],  
   "behavior": [
     "individuals"
   ],

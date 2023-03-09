@@ -1,0 +1,14 @@
+ "label": { "en": [ "ROLL OF LLOYD’s" ] },
+  "metadata": [
+    {
+      "label": { "en": [ "Size in cm" ] },
+      "value": { "none": [ "35x22x4" ] }
+    },
+    {
+      "label": { "en": [ "Type" ] },
+      "value": {
+        "en": [ "Volume" ]
+      }
+    }
+  ],
+
