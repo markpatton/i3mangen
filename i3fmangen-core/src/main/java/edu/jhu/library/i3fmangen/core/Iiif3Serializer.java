@@ -39,7 +39,7 @@ public class Iiif3Serializer {
         write_label(doc.getId(), g);
 
         g.writeStartArray("behavior");
-        g.write("paged");
+        g.write("individuals");
         g.writeEnd();
 
         // TODO PDF included as seeAlso or as rendering?
