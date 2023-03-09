@@ -1,0 +1,15 @@
+target/
+data/
+node_modules/
+dist/
+*~
+
+# IntelliJ stuff
+.idea/
+*.iml
+
+# Eclipse files
+.classpath
+.project
+.settings
+bin
