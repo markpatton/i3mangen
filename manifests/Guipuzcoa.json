@@ -1,0 +1,333 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/data/guipuzcoa/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "guipuzcoa"
+    ]
+  },
+  "behavior": [
+    "individuals"
+  ],
+  "items": [
+    {
+      "id": "http://localhost:8080/data/guipuzcoa/canvas/0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 1"
+        ]
+      },
+      "width": 5194,
+      "height": 3342,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0001/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0001",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/guipuzcoa/painting/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/guipuzcoa/image/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/guipuzcoa/canvas/0",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0001/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 5194,
+                "height": 3342,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0001",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/data/guipuzcoa/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 2"
+        ]
+      },
+      "width": 5201,
+      "height": 6427,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0002/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0002",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/guipuzcoa/painting/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/guipuzcoa/image/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/guipuzcoa/canvas/1",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0002/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 5201,
+                "height": 6427,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0002",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/data/guipuzcoa/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 3"
+        ]
+      },
+      "width": 3321,
+      "height": 5194,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0003/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0003",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/guipuzcoa/painting/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/guipuzcoa/image/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/guipuzcoa/canvas/2",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0003/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3321,
+                "height": 5194,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FL0455_0003",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/data/guipuzcoa/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 4"
+        ]
+      },
+      "width": 5184,
+      "height": 3327,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0001/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0001",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/guipuzcoa/painting/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/guipuzcoa/image/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/guipuzcoa/canvas/3",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0001/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 5184,
+                "height": 3327,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0001",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/data/guipuzcoa/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 5"
+        ]
+      },
+      "width": 5182,
+      "height": 6517,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0002/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0002",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/guipuzcoa/painting/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/guipuzcoa/image/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/guipuzcoa/canvas/4",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0002/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 5182,
+                "height": 6517,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0002",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/data/guipuzcoa/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 6"
+        ]
+      },
+      "width": 3332,
+      "height": 5167,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0003/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0003",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/guipuzcoa/painting/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/guipuzcoa/image/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/guipuzcoa/canvas/5",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0003/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3332,
+                "height": 5167,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FGuipuzcoa%2FSecond+agreement%2FL462%2FL462_0003",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

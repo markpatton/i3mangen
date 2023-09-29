@@ -1,0 +1,227 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/data/l1220/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "l1220"
+    ]
+  },
+  "behavior": [
+    "individuals"
+  ],
+  "items": [
+    {
+      "id": "http://localhost:8080/data/l1220/canvas/0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 1"
+        ]
+      },
+      "width": 932,
+      "height": 2835,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0001/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0001",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/l1220/painting/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/l1220/image/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/l1220/canvas/0",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0001/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 932,
+                "height": 2835,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0001",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/data/l1220/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 2"
+        ]
+      },
+      "width": 3528,
+      "height": 2853,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0002/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0002",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/l1220/painting/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/l1220/image/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/l1220/canvas/1",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0002/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3528,
+                "height": 2853,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0002",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/data/l1220/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 3"
+        ]
+      },
+      "width": 3550,
+      "height": 5555,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0003/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0003",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/l1220/painting/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/l1220/image/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/l1220/canvas/2",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0003/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3550,
+                "height": 5555,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0003",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/data/l1220/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Page: 4"
+        ]
+      },
+      "width": 2829,
+      "height": 2752,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0004/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0004",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/l1220/painting/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/l1220/image/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/l1220/canvas/3",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0004/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2829,
+                "height": 2752,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL1220%2FL1220_0004",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
