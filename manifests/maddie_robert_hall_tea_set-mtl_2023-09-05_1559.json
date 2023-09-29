@@ -1,0 +1,14 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/data/maddie_robert_hall_tea_set-mtl_2023-09-05_1559/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "maddie_robert_hall_tea_set-mtl_2023-09-05_1559"
+    ]
+  },
+  "behavior": [
+    "individuals"
+  ],
+  "items": []
+}
