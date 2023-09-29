@@ -23,12 +23,12 @@
       "height": 6319,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FROL_Page_2%2FROL_Page_2_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FROL_Page_2%2FROL_Page_2_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FROL_Page_2%2FROL_Page_2_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FROL_Page_2%2FROL_Page_2_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -46,14 +46,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/rol_page_2/canvas/0",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FROL_Page_2%2FROL_Page_2_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FROL_Page_2%2FROL_Page_2_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 5531,
                 "height": 6319,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FROL_Page_2%2FROL_Page_2_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FROL_Page_2%2FROL_Page_2_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }

@@ -23,12 +23,12 @@
       "height": 4894,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -46,14 +46,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/0",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 8419,
                 "height": 4894,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -76,12 +76,12 @@
       "height": 4901,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -99,14 +99,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/1",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 8412,
                 "height": 4901,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL0444_1%2FL0444_1_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -129,12 +129,12 @@
       "height": 3471,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -152,14 +152,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/2",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 5412,
                 "height": 3471,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -182,12 +182,12 @@
       "height": 3399,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -205,14 +205,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/3",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 5365,
                 "height": 3399,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_15_Nov_1734%2FL444_1_CS5_Nov_1734_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -235,12 +235,12 @@
       "height": 3268,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -258,14 +258,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/4",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 5108,
                 "height": 3268,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -288,12 +288,12 @@
       "height": 3296,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -311,14 +311,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/5",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 5184,
                 "height": 3296,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_18_22_Jan_1704%2FL444_1_CS8_22_Jan_1704_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -341,12 +341,12 @@
       "height": 1864,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -364,14 +364,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/6",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 3352,
                 "height": 1864,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -394,12 +394,12 @@
       "height": 1880,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -417,14 +417,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/7",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 3376,
                 "height": 1880,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -447,12 +447,12 @@
       "height": 2149,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0003.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0003/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0003.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0003",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -470,14 +470,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/8",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0003.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0003/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 3531,
                 "height": 2149,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0003.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0003",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -500,12 +500,12 @@
       "height": 2416,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0004.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0004/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0004.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0004",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -523,14 +523,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/9",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0004.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0004/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4032,
                 "height": 2416,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0004.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_28_Feb_1668%2FL444_2_CS1_28_Feb_1668_0004",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -553,12 +553,12 @@
       "height": 2348,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -576,14 +576,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/10",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 3920,
                 "height": 2348,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -606,12 +606,12 @@
       "height": 2355,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -629,14 +629,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/11",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 3937,
                 "height": 2355,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_21_Jun_1688%2FL444_2_CS1_Jun_1688_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -659,12 +659,12 @@
       "height": 3088,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -682,14 +682,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/12",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4992,
                 "height": 3088,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -712,12 +712,12 @@
       "height": 3168,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -735,14 +735,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/13",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 5136,
                 "height": 3168,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_22_25_Jul_1700%2FL444_22_25_Jul_1700_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -765,12 +765,12 @@
       "height": 3381,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -788,14 +788,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/14",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 5353,
                 "height": 3381,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -818,12 +818,12 @@
       "height": 3448,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -841,14 +841,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/15",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 5361,
                 "height": 3448,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_28+Nov_1734%2FL444_2_CS8+Nov_1734_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -871,12 +871,12 @@
       "height": 2760,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -894,14 +894,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/16",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4368,
                 "height": 2760,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -924,12 +924,12 @@
       "height": 2701,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -947,14 +947,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/17",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4330,
                 "height": 2701,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_3_6_May_1703%2FL444_3_CS_6_May_1703_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -977,12 +977,12 @@
       "height": 2800,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -1000,14 +1000,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/18",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4560,
                 "height": 2800,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -1030,12 +1030,12 @@
       "height": 2632,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -1053,14 +1053,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/19",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4648,
                 "height": 2632,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_5_9_Mar_1690%2FL444_5_CS_9_Mar_1690_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -1083,12 +1083,12 @@
       "height": 2297,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -1106,14 +1106,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/20",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 3871,
                 "height": 2297,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -1136,12 +1136,12 @@
       "height": 2277,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -1159,14 +1159,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l0433_newspapers/canvas/21",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 3902,
                 "height": 2277,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL0433_Newspapers%2FL444_7_10_Oct_1689%2FL444_7_CS_10_Oct_1689_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }

@@ -23,12 +23,12 @@
       "height": 3543,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0001.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0001/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0001.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0001",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -46,14 +46,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l579_1_38/canvas/0",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0001.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 1864,
                 "height": 3543,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0001.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0001",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -76,12 +76,12 @@
       "height": 3414,
       "thumbnail": [
         {
-          "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0002.tif/full/128,/0/default.jpg",
+          "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0002/full/128,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0002.tif",
+              "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0002",
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -99,14 +99,14 @@
               "motivation": "painting",
               "target": "http://localhost:8080/data/l579_1_38/canvas/1",
               "body": {
-                "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0002.tif/full/max/0/default.jpg",
+                "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 1839,
                 "height": 3414,
                 "service": [
                   {
-                    "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0002.tif",
+                    "id": "https://image.library.jhu.edu/iiif/us%2FL579_1_38%2FL579_1_38_0002",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
