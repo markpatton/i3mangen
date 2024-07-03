@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/data/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "MAP"
+    ]
+  },
+  "behavior": [
+    "individuals"
+  ],
+  "items": [
+    {
+      "id": "http://localhost:8080/data/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america/canvas/0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "MAP"
+        ]
+      },
+      "width": 29322,
+      "height": 20575,
+      "thumbnail": [
+        {
+          "id": "https://image.library.jhu.edu/iiif/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america/full/128,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://image.library.jhu.edu/iiif/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america",
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8080/data/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america/painting/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/data/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america/image/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://localhost:8080/data/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america/canvas/0",
+              "body": {
+                "id": "https://image.library.jhu.edu/iiif/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 29322,
+                "height": 20575,
+                "service": [
+                  {
+                    "id": "https://image.library.jhu.edu/iiif/caribbean_maps%2fcronenberg_charte_over_eilandet_st_croix_undi_america",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
